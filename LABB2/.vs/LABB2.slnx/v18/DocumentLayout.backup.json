@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u043B\u0430\u0430\u0431\u044B\\Git\\LABB2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B993FF6-3153-8A64-FDB4-0CC7832EA7B1}|LABB2\\LABB2.csproj|d:\\\u043B\u0430\u0430\u0431\u044B\\git\\labb2\\labb2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B993FF6-3153-8A64-FDB4-0CC7832EA7B1}|LABB2\\LABB2.csproj|solutionrelative:labb2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B993FF6-3153-8A64-FDB4-0CC7832EA7B1}|LABB2\\LABB2.csproj|d:\\\u043B\u0430\u0430\u0431\u044B\\git\\labb2\\labb2\\mobilehome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B993FF6-3153-8A64-FDB4-0CC7832EA7B1}|LABB2\\LABB2.csproj|solutionrelative:labb2\\mobilehome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B993FF6-3153-8A64-FDB4-0CC7832EA7B1}|LABB2\\LABB2.csproj|d:\\\u043B\u0430\u0430\u0431\u044B\\git\\labb2\\labb2\\fort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B993FF6-3153-8A64-FDB4-0CC7832EA7B1}|LABB2\\LABB2.csproj|solutionrelative:labb2\\fort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B993FF6-3153-8A64-FDB4-0CC7832EA7B1}|LABB2\\LABB2.csproj|d:\\\u043B\u0430\u0430\u0431\u044B\\git\\labb2\\labb2\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B993FF6-3153-8A64-FDB4-0CC7832EA7B1}|LABB2\\LABB2.csproj|solutionrelative:labb2\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B993FF6-3153-8A64-FDB4-0CC7832EA7B1}|LABB2\\LABB2.csproj|d:\\\u043B\u0430\u0430\u0431\u044B\\git\\labb2\\labb2\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B993FF6-3153-8A64-FDB4-0CC7832EA7B1}|LABB2\\LABB2.csproj|solutionrelative:labb2\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B993FF6-3153-8A64-FDB4-0CC7832EA7B1}|LABB2\\LABB2.csproj|d:\\\u043B\u0430\u0430\u0431\u044B\\git\\labb2\\labb2\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B993FF6-3153-8A64-FDB4-0CC7832EA7B1}|LABB2\\LABB2.csproj|solutionrelative:labb2\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B993FF6-3153-8A64-FDB4-0CC7832EA7B1}|LABB2\\LABB2.csproj|d:\\\u043B\u0430\u0430\u0431\u044B\\git\\labb2\\labb2\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B993FF6-3153-8A64-FDB4-0CC7832EA7B1}|LABB2\\LABB2.csproj|solutionrelative:labb2\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B993FF6-3153-8A64-FDB4-0CC7832EA7B1}|LABB2\\LABB2.csproj|d:\\\u043B\u0430\u0430\u0431\u044B\\git\\labb2\\labb2\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B993FF6-3153-8A64-FDB4-0CC7832EA7B1}|LABB2\\LABB2.csproj|solutionrelative:labb2\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 378,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0430\u0431\u044B\\Git\\LABB2\\LABB2\\Program.cs",
+              "RelativeDocumentMoniker": "LABB2\\Program.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0430\u0431\u044B\\Git\\LABB2\\LABB2\\Program.cs",
+              "RelativeToolTip": "LABB2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T13:32:44.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MobileHome.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0430\u0431\u044B\\Git\\LABB2\\LABB2\\MobileHome.cs",
+              "RelativeDocumentMoniker": "LABB2\\MobileHome.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0430\u0431\u044B\\Git\\LABB2\\LABB2\\MobileHome.cs",
+              "RelativeToolTip": "LABB2\\MobileHome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T18:21:58.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fort.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0430\u0431\u044B\\Git\\LABB2\\LABB2\\Fort.cs",
+              "RelativeDocumentMoniker": "LABB2\\Fort.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0430\u0431\u044B\\Git\\LABB2\\LABB2\\Fort.cs",
+              "RelativeToolTip": "LABB2\\Fort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T18:03:11.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Archer.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0430\u0431\u044B\\Git\\LABB2\\LABB2\\Archer.cs",
+              "RelativeDocumentMoniker": "LABB2\\Archer.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0430\u0431\u044B\\Git\\LABB2\\LABB2\\Archer.cs",
+              "RelativeToolTip": "LABB2\\Archer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T14:01:57.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Interfaces.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0430\u0431\u044B\\Git\\LABB2\\LABB2\\Interfaces.cs",
+              "RelativeDocumentMoniker": "LABB2\\Interfaces.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0430\u0431\u044B\\Git\\LABB2\\LABB2\\Interfaces.cs",
+              "RelativeToolTip": "LABB2\\Interfaces.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T14:00:32.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Building.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0430\u0431\u044B\\Git\\LABB2\\LABB2\\Building.cs",
+              "RelativeDocumentMoniker": "LABB2\\Building.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0430\u0431\u044B\\Git\\LABB2\\LABB2\\Building.cs",
+              "RelativeToolTip": "LABB2\\Building.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T13:50:53.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0430\u0431\u044B\\Git\\LABB2\\LABB2\\Unit.cs",
+              "RelativeDocumentMoniker": "LABB2\\Unit.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0430\u0431\u044B\\Git\\LABB2\\LABB2\\Unit.cs",
+              "RelativeToolTip": "LABB2\\Unit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T13:43:08.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0430\u0431\u044B\\Git\\LABB2\\LABB2\\GameObject.cs",
+              "RelativeDocumentMoniker": "LABB2\\GameObject.cs",
+              "ToolTip": "D:\\\u043B\u0430\u0430\u0431\u044B\\Git\\LABB2\\LABB2\\GameObject.cs",
+              "RelativeToolTip": "LABB2\\GameObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T13:36:50.198Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

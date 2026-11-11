@@ -1,0 +1,16 @@
+D:\лаабы\LABB2\LABB2\bin\Debug\net10.0\LABB2.exe
+D:\лаабы\LABB2\LABB2\bin\Debug\net10.0\LABB2.deps.json
+D:\лаабы\LABB2\LABB2\bin\Debug\net10.0\LABB2.runtimeconfig.json
+D:\лаабы\LABB2\LABB2\bin\Debug\net10.0\LABB2.dll
+D:\лаабы\LABB2\LABB2\bin\Debug\net10.0\LABB2.pdb
+D:\лаабы\LABB2\LABB2\obj\Debug\net10.0\LABB2.GeneratedMSBuildEditorConfig.editorconfig
+D:\лаабы\LABB2\LABB2\obj\Debug\net10.0\LABB2.AssemblyInfoInputs.cache
+D:\лаабы\LABB2\LABB2\obj\Debug\net10.0\LABB2.AssemblyInfo.cs
+D:\лаабы\LABB2\LABB2\obj\Debug\net10.0\LABB2.csproj.CoreCompileInputs.cache
+D:\лаабы\LABB2\LABB2\obj\Debug\net10.0\LABB2.sourcelink.json
+D:\лаабы\LABB2\LABB2\obj\Debug\net10.0\LABB2.dll
+D:\лаабы\LABB2\LABB2\obj\Debug\net10.0\refint\LABB2.dll
+D:\лаабы\LABB2\LABB2\obj\Debug\net10.0\LABB2.pdb
+D:\лаабы\LABB2\LABB2\obj\Debug\net10.0\LABB2.genruntimeconfig.cache
+D:\лаабы\LABB2\LABB2\obj\Debug\net10.0\ref\LABB2.dll
+D:\лаабы\LABB2\LABB2\obj\Debug\net10.0\LABB2.csproj.Up2Date
