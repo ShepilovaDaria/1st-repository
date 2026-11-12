@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lab1\\LAB3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E30A1580-4E49-400A-ADD2-F62D326E5114}|LAB3\\LAB3.csproj|d:\\lab1\\lab3\\lab3\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30A1580-4E49-400A-ADD2-F62D326E5114}|LAB3\\LAB3.csproj|solutionrelative:lab3\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30A1580-4E49-400A-ADD2-F62D326E5114}|LAB3\\LAB3.csproj|d:\\lab1\\lab3\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30A1580-4E49-400A-ADD2-F62D326E5114}|LAB3\\LAB3.csproj|solutionrelative:lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30A1580-4E49-400A-ADD2-F62D326E5114}|LAB3\\LAB3.csproj|d:\\lab1\\lab3\\lab3\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30A1580-4E49-400A-ADD2-F62D326E5114}|LAB3\\LAB3.csproj|solutionrelative:lab3\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30A1580-4E49-400A-ADD2-F62D326E5114}|LAB3\\LAB3.csproj|d:\\lab1\\lab3\\lab3\\abstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30A1580-4E49-400A-ADD2-F62D326E5114}|LAB3\\LAB3.csproj|solutionrelative:lab3\\abstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30A1580-4E49-400A-ADD2-F62D326E5114}|LAB3\\LAB3.csproj|d:\\lab1\\lab3\\lab3\\factorymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30A1580-4E49-400A-ADD2-F62D326E5114}|LAB3\\LAB3.csproj|solutionrelative:lab3\\factorymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 378,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Builder.cs",
+              "DocumentMoniker": "D:\\lab1\\LAB3\\LAB3\\Builder.cs",
+              "RelativeDocumentMoniker": "LAB3\\Builder.cs",
+              "ToolTip": "D:\\lab1\\LAB3\\LAB3\\Builder.cs",
+              "RelativeToolTip": "LAB3\\Builder.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T18:34:27.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Abstractfactory.cs",
+              "DocumentMoniker": "D:\\lab1\\LAB3\\LAB3\\Abstractfactory.cs",
+              "RelativeDocumentMoniker": "LAB3\\Abstractfactory.cs",
+              "ToolTip": "D:\\lab1\\LAB3\\LAB3\\Abstractfactory.cs",
+              "RelativeToolTip": "LAB3\\Abstractfactory.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T18:15:56.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Factorymethod.cs",
+              "DocumentMoniker": "D:\\lab1\\LAB3\\LAB3\\Factorymethod.cs",
+              "RelativeDocumentMoniker": "LAB3\\Factorymethod.cs",
+              "ToolTip": "D:\\lab1\\LAB3\\LAB3\\Factorymethod.cs",
+              "RelativeToolTip": "LAB3\\Factorymethod.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T17:58:56.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "D:\\lab1\\LAB3\\LAB3\\Singleton.cs",
+              "RelativeDocumentMoniker": "LAB3\\Singleton.cs",
+              "ToolTip": "D:\\lab1\\LAB3\\LAB3\\Singleton.cs",
+              "RelativeToolTip": "LAB3\\Singleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T17:44:46.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\lab1\\LAB3\\LAB3\\Program.cs",
+              "RelativeDocumentMoniker": "LAB3\\Program.cs",
+              "ToolTip": "D:\\lab1\\LAB3\\LAB3\\Program.cs",
+              "RelativeToolTip": "LAB3\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T17:43:43.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
